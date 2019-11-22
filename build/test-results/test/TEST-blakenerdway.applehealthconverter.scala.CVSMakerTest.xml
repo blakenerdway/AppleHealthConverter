@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="blakenerdway.applehealthconverter.scala.CVSMakerTest" tests="1" skipped="1" failures="0" errors="0" timestamp="2019-11-21T15:27:13" hostname="DESKTOP-NHTUVHP" time="73.255">
+  <properties/>
+  <testcase name="toCSVTest" classname="blakenerdway.applehealthconverter.scala.CVSMakerTest" time="73.255">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

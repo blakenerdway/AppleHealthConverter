@@ -1,0 +1,34 @@
+<HealthData locale="en_US">
+    <Record type="HKQuantityTypeIdentifierBodyMass" sourceName="Health" sourceVersion="12.1" unit="lb" creationDate="2018-12-11 20:16:19 -0500" startDate="2018-12-11 20:16:00 -0500" endDate="2018-12-11 20:16:00 -0500" value="171">
+        <MetadataEntry key="HKWasUserEntered" value="1"/>
+    </Record>
+    <Record type="HKQuantityTypeIdentifierHeartRate" sourceName="Blake’s Apple Watch" sourceVersion="5.0" device="&lt;&lt;HKDevice: 0x282c7c1e0&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch3,3, software:5.0&gt;" unit="count/min" creationDate="2018-09-21 23:12:05 -0500" startDate="2018-09-21 23:07:27 -0500" endDate="2018-09-21 23:07:27 -0500" value="54">
+        <MetadataEntry key="HKMetadataKeyHeartRateMotionContext" value="1"/>
+    </Record>
+    <Record type="HKQuantityTypeIdentifierBodyMass" sourceName="Shortcuts" sourceVersion="754" unit="lb" creationDate="2018-12-21 16:25:21 -0500" startDate="2018-12-21 16:25:21 -0500" endDate="2018-12-21 16:25:21 -0500" value="175"/>
+    <Record type="HKQuantityTypeIdentifierBodyMass" sourceName="Fitbod" sourceVersion="16" unit="lb" creationDate="2018-12-26 11:19:25 -0500" startDate="2018-12-26 11:19:25 -0500" endDate="2018-12-26 11:19:25 -0500" value="175"/>
+    <Record type="HKQuantityTypeIdentifierDistanceCycling" sourceName="Blake’s Apple Watch" sourceVersion="5.1.3" device="&lt;&lt;HKDevice: 0x282fd7d90&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch3,3, software:5.1.3&gt;" unit="mi" creationDate="2019-03-17 15:31:49 -0500" startDate="2019-03-17 15:31:43 -0500" endDate="2019-03-17 15:31:48 -0500" value="0.0228016"/>
+    <Record type="HKQuantityTypeIdentifierDistanceWalkingRunning" sourceName="Blake’s Apple Watch" sourceVersion="5.1.3" device="&lt;&lt;HKDevice: 0x282c0ba70&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch3,3, software:5.1.3&gt;" unit="mi" creationDate="2019-05-20 01:01:29 -0500" startDate="2019-05-20 00:54:41 -0500" endDate="2019-05-20 00:54:54 -0500" value="0.00557988"/>
+    <Record type="HKQuantityTypeIdentifierDistanceWalkingRunning" sourceName="iphone user" sourceVersion="12.1.4" device="&lt;&lt;HKDevice: 0x282c25a40&gt;, name:iPhone, manufacturer:Apple, model:iPhone, hardware:iPhone11,2, software:12.1.4&gt;" unit="mi" creationDate="2019-05-20 06:41:00 -0500" startDate="2019-05-20 06:28:35 -0500" endDate="2019-05-20 06:36:12 -0500" value="0.0515513"/>
+    <Record type="HKQuantityTypeIdentifierBasalEnergyBurned" sourceName="Blake’s Apple Watch" sourceVersion="5.1.1" device="&lt;&lt;HKDevice: 0x282cad450&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch3,3, software:5.1.1&gt;" unit="kcal" creationDate="2018-11-07 18:27:09 -0500" startDate="2018-11-07 18:26:55 -0500" endDate="2018-11-07 18:26:58 -0500" value="0.072"/>
+    <Record type="HKQuantityTypeIdentifierActiveEnergyBurned" sourceName="Blake’s Apple Watch" sourceVersion="4.2.3" device="&lt;&lt;HKDevice: 0x282c49810&gt;, name:Apple Watch, manufacturer:Apple, model:Watch, hardware:Watch3,3, software:4.2.3&gt;" unit="kcal" creationDate="2018-07-27 18:51:06 -0500" startDate="2018-07-27 18:51:01 -0500" endDate="2018-07-27 18:51:03 -0500" value="0.039"/>
+    <Record type="HKQuantityTypeIdentifierFlightsClimbed" sourceName="iphone user" sourceVersion="10.0.3" device="&lt;&lt;HKDevice: 0x282c5d9a0&gt;, name:iPhone, manufacturer:Apple, model:iPhone, hardware:iPhone9,4, software:10.0.3&gt;" unit="count" creationDate="2016-11-03 17:18:39 -0500" startDate="2016-11-03 16:36:50 -0500" endDate="2016-11-03 16:36:50 -0500" value="1"/>
+    <Record type="HKQuantityTypeIdentifierDietaryFatSaturated" sourceName="Lifesum" sourceVersion="1" unit="g" creationDate="2019-09-25 14:23:48 -0500" startDate="2019-09-25 08:00:00 -0500" endDate="2019-09-25 08:00:00 -0500" value="0.5">
+        <MetadataEntry key="HKFoodType" value="Thomas' plain bagel"/>
+        <MetadataEntry key="Amount" value="· 1 Serving (3.4 oz)"/>
+        <MetadataEntry key="HKExternalUUID" value="3830807336"/>
+        <MetadataEntry key="Meal" value="Breakfast"/>
+    </Record>
+    <Record type="HKQuantityTypeIdentifierDietaryFatTotal" sourceName="Lifesum" sourceVersion="1" unit="g" creationDate="2019-09-25 14:23:48 -0500" startDate="2019-09-25 08:00:00 -0500" endDate="2019-09-25 08:00:00 -0500" value="1">
+        <MetadataEntry key="HKFoodType" value="Thomas' plain bagel"/>
+        <MetadataEntry key="Amount" value="· 1 Serving (3.4 oz)"/>
+        <MetadataEntry key="HKExternalUUID" value="3830807336"/>
+        <MetadataEntry key="Meal" value="Breakfast"/>
+    </Record>
+    <Record type="HKQuantityTypeIdentifierDietaryCarbohydrates" sourceName="Lifesum" sourceVersion="1" unit="g" creationDate="2019-09-25 14:25:55 -0500" startDate="2019-09-25 08:00:00 -0500" endDate="2019-09-25 08:00:00 -0500" value="28">
+        <MetadataEntry key="HKFoodType" value="Oatmeal - plain"/>
+        <MetadataEntry key="Amount" value="· 1 Serving (0.7 oz)"/>
+        <MetadataEntry key="HKExternalUUID" value="3830809551"/>
+        <MetadataEntry key="Meal" value="Breakfast"/>
+    </Record>
+</HealthData>
